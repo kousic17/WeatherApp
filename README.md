@@ -1,5 +1,5 @@
 # WeatherApp
-Simple node.js program to display temperature, windspeed and pressure value using openweathermap api by getting input from the user
+Simple node.js program to display temperature, windspeed and pressure value using OpenWeatherMap API by getting input from the user
 
 * The code defines some constants, including the API key and base URL for the OpenWeatherMap API.
 * It creates a readline interface to interact with the user through the command line.
